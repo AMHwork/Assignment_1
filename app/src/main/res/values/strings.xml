@@ -1,0 +1,94 @@
+<resources>
+    <string name="app_name">Assignment_1</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_exercise_screen">ExerciseScreen</string>
+    <string name="title_activity_program_screen">ProgramScreen</string>
+    <string name="title_activity_workout_screen">WorkoutScreen</string>
+    <string-array name="tricep_workouts">
+        <item>Select Workout</item>
+        <item>Dip</item>
+        <item>Cable Rope Triceps Pushdown</item>
+        <item>Cable Triceps Pushdown</item>
+        <item>Dumbbell Tricep Kickback</item>
+        <item>Bench Dip</item>
+    </string-array>
+    <string-array name="chest_workouts">
+        <item>Select Workout</item>
+        <item>Dumbbell Bench Press</item>
+        <item>Machine Fly</item>
+        <item>Dumbbell Incline Bench Press</item>
+        <item>Cable Cross Over</item>
+        <item>Butterfly</item>
+    </string-array>
+    <string-array name="shoulder_workouts">
+        <item>Select Workout</item>
+        <item>Dumbbell Lateral Raise</item>
+        <item>Barbell Shoulder Press</item>
+        <item>Barbell Shrug</item>
+        <item>Dumbbell Front Raise</item>
+        <item>Machine Shoulder Press</item>
+    </string-array>
+    <string-array name="Biceps_workouts">
+        <item>Select Workout</item>
+        <item>Barbell Curl</item>
+        <item>Dumbbell Incline Curl</item>
+        <item>Barbbell Preacher Curl</item>
+        <item>Dumbbell Bicep Curl</item>
+        <item>Dumbbell Hammer Curls</item>
+    </string-array>
+    <string-array name="Back_workouts">
+        <item>Select Workout</item>
+        <item>Barbell Deadlift</item>
+        <item>Dumbbell Bent Over Row</item>
+        <item>T Bar Row</item>
+        <item>Barbell Good Morning</item>
+        <item>Smith Machine Deadlift</item>
+    </string-array>
+    <string-array name="Thigh_workouts">
+        <item>Select Workout</item>
+        <item>Barbell Squat</item>
+        <item>Barbell Lunge</item>
+        <item>Leg Press</item>
+        <item>Dumbbell Lunges</item>
+        <item>Dumbbell Squat</item>
+    </string-array>
+    <string-array name="Calf_workouts">
+        <item>Select Workout</item>
+        <item>Dumbbell Standing Calf Raise</item>
+        <item>Barbell Floor Calf Raise</item>
+        <item>Hack Calf Raise</item>
+        <item>Cable Calf Raise</item>
+        <item>Smith Machine Tow Raise</item>
+    </string-array>
+    <string-array name="Glute_workouts">
+        <item>Select Workout</item>
+        <item>Kneeling Squat</item>
+        <item>Barbell Lateral Lunge</item>
+        <item>Kneeling Jump Squat</item>
+        <item>Barbell Hip Thrust</item>
+        <item>Barbell Glute Bridge</item>
+    </string-array>
+    <string-array name="addDays">
+        <item>No Specific Day</item>
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+    </string-array>
+    <string name="title_activity_triceps_page">TricepsPage</string>
+    <string name="title_activity_custom_page">CustomPage</string>
+    <string name="title_activity_chest_page">ChestPage</string>
+    <string name="title_activity_shoulder_page">ShoulderPage</string>
+    <string name="title_activity_biceps_page">BicepsPage</string>
+    <string name="title_activity_back_page">BackPage</string>
+    <string name="title_activity_thigh_page">ThighPage</string>
+    <string name="title_activity_calf_page">CalfPage</string>
+    <string name="title_activity_glutes_page">GlutesPage</string>
+    <string name="title_activity_add_day">AddDay</string>
+    <string name="title_activity_training_page">TrainingPage</string>
+    <string name="title_activity_exercise_list">ExerciseList</string>
+    <string name="title_activity_finish_page">FinishPage</string>
+    <string name="title_activity_update_page">UpdatePage</string>
+
+</resources>

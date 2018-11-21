@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.austinhua.assignment_1">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".HomeScreen"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".ExerciseScreen"
+            android:label="@string/title_activity_exercise_screen"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".ProgramScreen"
+            android:label="@string/title_activity_program_screen"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".WorkoutScreen"
+            android:label="@string/title_activity_workout_screen"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".TricepsPage"
+            android:label="@string/title_activity_triceps_page"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".CustomPage"
+            android:label="@string/title_activity_custom_page"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".ChestPage"
+            android:label="@string/title_activity_chest_page"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".ShoulderPage"
+            android:label="@string/title_activity_shoulder_page"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".BicepsPage"
+            android:label="@string/title_activity_biceps_page"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".BackPage"
+            android:label="@string/title_activity_back_page"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".ThighPage"
+            android:label="@string/title_activity_thigh_page"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".CalfPage"
+            android:label="@string/title_activity_calf_page"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".GlutesPage"
+            android:label="@string/title_activity_glutes_page"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".AddDay"
+            android:label="@string/title_activity_add_day"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".TrainingPage"
+            android:label="@string/title_activity_training_page"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".ExerciseList"
+            android:label="@string/title_activity_exercise_list"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".FinishPage"
+            android:label="@string/title_activity_finish_page"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".UpdatePage"
+            android:label="@string/title_activity_update_page"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
+    </application>
+
+</manifest>
